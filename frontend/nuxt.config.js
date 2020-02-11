@@ -61,11 +61,11 @@ export default {
    */
   modules: [
     // Doc: https://axios.nuxtjs.org/usage
+    'bootstrap-vue/nuxt',
     '@nuxtjs/axios',
     '@nuxtjs/pwa',
     '@nuxtjs/auth',
-    '@nuxtjs/dotenv',
-    'bootstrap-vue/nuxt'
+    '@nuxtjs/dotenv'
   ],
 
   /*
